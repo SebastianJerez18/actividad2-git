@@ -31,7 +31,7 @@ Contenido del repositorio
 | notas.txt | Archivo de texto de práctica con cambios versionados |
 | .gitignore | Ignora los archivos temporales de Word (`~$*`) |
 
-Cada capítulo está disponible en formato ".docx" y ".pdf".
+Cada capítulo está disponible en formato `.docx` y `.pdf`.
 
 Cambios realizados
 - Se modificó `notas.txt` en dos commits para practicar el ciclo `add` y `commit`.
